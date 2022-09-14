@@ -26,4 +26,4 @@ int main(void)
 	printf("%d\n", sum_of_evens);
 
 	return (0);
-}	
+}
