@@ -11,7 +11,7 @@ void print_most_numbers(void)
 
 	for (sh = 48; sh < 58; sh++)
 	{
-		if (sh != 50 && ch != 52)
+		if (sh != 50 && sh != 52)
 			_putchar(sh)
 	}
 	_putchar('\n');
